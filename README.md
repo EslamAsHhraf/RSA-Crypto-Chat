@@ -75,13 +75,13 @@ cd src
 <th>Analysis</th>
 </tr>
 <tr>
-<td><img src="https://github.com/EslamAsHhraf/RSA-Crypto-Chat/assets/71986226/34fb9a3c-7680-4adc-a84b-9345b798d161"></td>
+<td><img src="https://github.com/EslamAsHhraf/RSA-Crypto-Chat/assets/71986226/926d6716-c454-492b-ad53-d485da3f67fa"></td>
 <td>
 Key size doesn’t affect Time of encryption and decryption [time almost zero] because algorithm has simple operations like addition and power …etc
 </td>
 </tr>
 <tr>
-<td><img src="https://github.com/EslamAsHhraf/RSA-Crypto-Chat/assets/71986226/81d770d4-6246-49b5-9e0c-f43b01760c35"></td>
+<td><img src="https://github.com/EslamAsHhraf/RSA-Crypto-Chat/assets/71986226/10549276-bc27-4cd4-a21a-c44b414edb40"></td>
 <td>
 Time increases exponentially by increasing number of bits
 </td>
