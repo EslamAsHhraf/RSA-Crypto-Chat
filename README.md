@@ -71,7 +71,7 @@ cd src
 <table>
 
 <tr>
-<th>Graph</th>
+<th width="60%">Graph</th>
 <th>Analysis</th>
 </tr>
 <tr>
