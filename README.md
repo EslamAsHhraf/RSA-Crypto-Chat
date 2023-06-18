@@ -22,7 +22,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"   width =60px  height =70px src="https://media2.giphy.com/media/Yn4nioYWSZMqiPNVuD/giphy.gif?cid=ecf05e47m5h78yoqhdkg8pq54o5qsxhdoltjxyfe08d4vxvg&rid=giphy.gif&ct=s"> Overview
+## <img align="center"   width =60px src="https://media1.giphy.com/media/GP1TJJSV4Ys1r64q2A/giphy.gif?cid=ecf05e47ug1uei4avipz8fgx4e4s7lvmvwaub0bu68rew6rz&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Overview
 
 <ul>
  <li>
