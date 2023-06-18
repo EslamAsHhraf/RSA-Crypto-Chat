@@ -39,6 +39,8 @@ The RSA algorithm (Rivest-Shamir-Adleman) is the basis of a cryptosystem -- a su
 <li>C^d mod n = 48^103 mod 143 = 9 = M</li>
 </ul>
 </ul>
+<li><a href="https://github.com/EslamAsHhraf/RSA/blob/main/Report.pdf">Report</a></li>
+<li>Built using <a href="https://docs.python.org/3/">Python</a></li>
 </ul>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "started"></a>
@@ -73,7 +75,10 @@ cd src
 <th>Analysis</th>
 </tr>
 <tr>
-<td></td>
+<td><img src="https://github.com/EslamAsHhraf/RSA/assets/71986226/b4a4dd50-2d28-46a5-808c-7a845ec2e272"></td>
+<td>
+Key size doesn’t affect Time of encryption and decryption [time almost zero] because algorithm has simple operations like addition and power …etc
+</td>
 </tr>
 </table>
 
