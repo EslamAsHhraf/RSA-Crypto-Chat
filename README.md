@@ -75,7 +75,7 @@ cd src
 <th>Analysis</th>
 </tr>
 <tr>
-<td><img src="https://github.com/EslamAsHhraf/RSA/assets/71986226/b4a4dd50-2d28-46a5-808c-7a845ec2e272"></td>
+<td><img src="https://github.com/EslamAsHhraf/RSA/assets/71986226/34fb9a3c-7680-4adc-a84b-9345b798d161"></td>
 <td>
 Key size doesn’t affect Time of encryption and decryption [time almost zero] because algorithm has simple operations like addition and power …etc
 </td>

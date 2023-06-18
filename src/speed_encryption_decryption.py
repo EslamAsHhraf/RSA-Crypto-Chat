@@ -37,7 +37,7 @@ plt.plot(sizeOfN, times_encryption,color='red')
 # naming the x axis
 plt.xlabel('size in bits')
 # naming the y axis
-plt.ylabel('time to break key')
+plt.ylabel('time to encryption key')
 
 # giving a title to my graph
 plt.title('speed of encryption (second)')
@@ -51,7 +51,7 @@ plt.plot(sizeOfN, times_decryption,color='red')
 # naming the x axis
 plt.xlabel('size in bits')
 # naming the y axis
-plt.ylabel('time to break key (second)')
+plt.ylabel('time to decryption key (second)')
 
 # giving a title to my graph
 plt.title('speed of decryption')
