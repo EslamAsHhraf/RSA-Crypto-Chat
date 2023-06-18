@@ -39,7 +39,7 @@ The RSA algorithm (Rivest-Shamir-Adleman) is the basis of a cryptosystem -- a su
 <li>C^d mod n = 48^103 mod 143 = 9 = M</li>
 </ul>
 </ul>
-<li><a href="https://github.com/EslamAsHhraf/RSA/blob/main/Requirement.pdf">Requirements</a></li>
+<li><a href="https://github.com/EslamAsHhraf/RSA-Crypto-Chat/blob/main/Requirement.pdf">Requirements</a></li>
 <li>Built using <a href="https://docs.python.org/3/">Python</a></li>
 </ul>
 <hr style="background-color: #4b4c60"></hr>
@@ -106,4 +106,4 @@ Time increases exponentially by increasing number of bits
 
 ## 🔒 License
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/RSA/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/RSA-Crypto-Chat/blob/main/LICENSE) for more information ©EslamAsHhraf.
