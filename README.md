@@ -80,6 +80,12 @@ cd src
 Key size doesn’t affect Time of encryption and decryption [time almost zero] because algorithm has simple operations like addition and power …etc
 </td>
 </tr>
+<tr>
+<td><img src="https://github.com/EslamAsHhraf/RSA/assets/71986226/81d770d4-6246-49b5-9e0c-f43b01760c35"></td>
+<td>
+Time increases exponentially by increasing number of bits
+</td>
+</tr>
 </table>
 
 <hr style="background-color: #4b4c60"></hr>
