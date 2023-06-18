@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img height=400px src="https://i.gifer.com/7zon.gif">
-<div align="center"  width=10%>
+<img height=400px src="https://cdn.dribbble.com/users/7813810/screenshots/17447483/media/2f93ce55516c9b590bec1c8950a67a62.gif">
+<div align="center">
 
 ### "Protect yourself from hacker attacking. 👨‍💻"
 
