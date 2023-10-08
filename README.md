@@ -1,4 +1,4 @@
-# <img  align="center" width= 60px  src="https://media0.giphy.com/media/ocVFpiaTCxly9SKDit/giphy.gif?cid=ecf05e474dcd6b16fb6zacuya6rd00a9l4fzqvls9039kdvc&ep=v1_stickers_search&rid=giphy.gif&ct=s">RSA
+# 🔐 RSA
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#started"> 🚀 Get Started</a>
@@ -22,7 +22,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"   width =60px src="https://media1.giphy.com/media/GP1TJJSV4Ys1r64q2A/giphy.gif?cid=ecf05e47ug1uei4avipz8fgx4e4s7lvmvwaub0bu68rew6rz&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Overview
+## 📙 Overview
 
 <ul>
  <li>
@@ -45,7 +45,7 @@ The RSA algorithm (Rivest-Shamir-Adleman) is the basis of a cryptosystem -- a su
 <hr style="background-color: #4b4c60"></hr>
 <a id = "started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
+## 🚀 Get Started
 
 - Navigate to the src directory
 
@@ -66,7 +66,7 @@ cd src
 <hr style="background-color: #4b4c60"></hr>
 <a id ="analysis"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media1.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif?cid=ecf05e477vz4x0fwe8vfh8ka9hbrdol4nev48hohq1ee3lfv&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Encryption/Decryption Analysis
+## 📉  Encryption/Decryption Analysis
 
 <table>
 
@@ -91,7 +91,7 @@ Time increases exponentially by increasing number of bits
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
